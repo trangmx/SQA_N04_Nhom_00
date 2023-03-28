@@ -13,6 +13,17 @@ Kế hoạch thực hiện công việc tuần tới của nhóm.
 
 # Báo cáo của thành viên
 
+## Mai Xuân Tráng
+
+### Tuần trước làm gì
+Em làm tác vụ A
+
+### Khó khăn gặp phải
+Em chưa hiểu và triển khai được phân B
+
+### Dự định tuần tới
+Em sẽ hoàn thành một phần công viêc C.
+
 ## Nguyễn Văn A
 
 ### Tuần trước làm gì
