@@ -25,6 +25,7 @@ Em chưa hiểu và triển khai được phân B
 Em sẽ hoàn thành một phần công viêc C.
 
 ## Nguyễn Văn A
+ Nguyễn Viết Tuấn
 
 ### Tuần trước làm gì
 Em làm tác vụ A
