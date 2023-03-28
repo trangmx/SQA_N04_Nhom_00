@@ -1,6 +1,6 @@
 # Báo cáo nhóm
 
-## Tuần trươc làm gì
+## Tuần trước làm gì
 Mô tả công việc nhóm đã thực hiện được tuần trước.
 
 ## Các vấn đề nhóm gặp phải
@@ -13,7 +13,7 @@ Kế hoạch thực hiện công việc tuần tới của nhóm.
 
 # Báo cáo của thành viên
 
-## Mai Xuân Tráng
+## Mai Xuân Tráng (C)
 
 ### Tuần trước làm gì
 Em làm tác vụ A
