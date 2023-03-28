@@ -14,6 +14,7 @@ Kế hoạch thực hiện công việc tuần tới của nhóm.
 # Báo cáo của thành viên
 
 ## Nguyễn Văn A
+ Nguyễn Viết Tuấn
 
 ### Tuần trước làm gì
 Em làm tác vụ A
